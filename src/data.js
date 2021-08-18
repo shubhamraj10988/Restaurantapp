@@ -60,7 +60,7 @@ const menu = [
     title: 'Aaloo Paratha(3pcs)',
     category: 'lunch',
     price: 99,
-    img: './images/item-8.JPEG',
+    img: './images/item-8.jpeg',
     desc: `Don't expect anyone to be perfect. ... by his looks, Kyunki "Aalu hi French fries hai.`,
   },
   {
